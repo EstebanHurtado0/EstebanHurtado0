@@ -1,6 +1,6 @@
 ### Esteban Hurtado - UTN FRBA 
 
->Nombre:Esteban Hurtado 
+>Nombre: Esteban Hurtado 
 
 >📍 Viviendo en Buenos Aires.
 ---
