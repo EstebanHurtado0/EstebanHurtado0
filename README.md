@@ -1,16 +1,20 @@
-### Hi there 👋
+### Esteban Hurtado - UTN FRBA 
 
-<!--
-**EstebanHurtado0/EstebanHurtado0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Nombre:Esteban Hurtado 
 
-Here are some ideas to get you started:
+>📍 Viviendo en Buenos Aires.
+---
+Sobre Mi
+---
+>😃 *Mi nombre es Esteban Hurtado, soy de 9 de Julio, una ciudad chica de la provincia de Buenos Aires, soy hincha de Racing, me encanta jugar al futbol y cualquier otro deporte, me gusta cualquier tipo de musica y cada vez que tengo tiempo, me escapo a 9 de Julio.* 😃
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Foto](https://github.com/EstebanHurtado0/RepositorioReadme/blob/main/WhatsApp%20Image%202023-03-31%20at%2018.09.24.jpeg?raw=true)
+
+
+# Mis pasatiempos
+
+- ⚽ Juego al futbol ⚽
+- 🌾 Voy al campo 🌾
+- 🎉 Salgo de fiesta con amigos 🎉
+- 🏋 Voy al Gimnasio 🏋
