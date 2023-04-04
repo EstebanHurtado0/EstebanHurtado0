@@ -1,6 +1,6 @@
 ### Esteban Hurtado - UTN FRBA 
 
+Aguante Racing
 
 
-![Foto](https://github.com/EstebanHurtado0/RepositorioReadme/blob/main/WhatsApp%20Image%202023-03-31%20at%2018.09.24.jpeg?raw=true)
-
+![Image232](https://user-images.githubusercontent.com/101006860/229820428-0a1c1af5-5b7f-4863-87ae-e97e9b7721d8.jpeg)
