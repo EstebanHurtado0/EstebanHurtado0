@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Hurtado</h1>
-<h3 align="center">A System Engineer student from Argentina</h3>
+<h3 align="center">A Systems Engineer student from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanhurtado0&label=Profile%20views&color=0e75b6&style=flat" alt="estebanhurtado0" /> </p>
 
